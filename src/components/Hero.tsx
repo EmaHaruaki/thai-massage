@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
       <div className="relative container mx-auto px-4 h-full flex flex-col justify-center items-center text-center">
         <div className="bg-cream/10 backdrop-blur-sm p-8 rounded-lg border border-gold/30 max-w-3xl">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif text-gold mb-4">
-            タイ古式マッサージ『アユタヤ』
+            タイ古式マッサージ<br/>『アユタヤ』
           </h1>
           <p className="text-xl md:text-2xl text-cream mb-8 font-light">
             伝統的なタイ古式マッサージで心身ともに癒される贅沢なひとときを
